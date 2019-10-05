@@ -1,8 +1,9 @@
 import pyaudio
 
-OCM_API = '' #maybe speaker recognistion API
+
+OCM_API = '' #maybe speaker recognistion
 LOCALE = 'en-us'
-speech_key, service_region = "", "westus" #maybe speech service api
+speech_key, service_region = "", "westus" #maybe speech service
 profile_info={}
 
 FORMAT = pyaudio.paInt16
