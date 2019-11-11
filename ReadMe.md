@@ -1,7 +1,6 @@
-The software transcribe the audio, detect the speaker voice and convert the speech into text.
+The software to transcribe the audio, detect the speaker voice and convert the speech into text.
 
-Requirement: Azure speech recognition API
-	     Azure speech to text API
+Requirement: Azure speech recognition API, Azure speech to text API
 
 
 Python 3.7
@@ -12,3 +11,7 @@ To Run:
 	python MainFile.py
 
 ![alt text](https://github.com/SahilSrivastava/Conversation_Transcription/blob/master/Project_Images/Project_Images%20(1).png)
+![alt text](https://github.com/SahilSrivastava/Conversation_Transcription/blob/master/Project_Images/Project_Images%20(2).png)
+![alt text](https://github.com/SahilSrivastava/Conversation_Transcription/blob/master/Project_Images/Project_Images%20(3).png)
+![alt text](https://github.com/SahilSrivastava/Conversation_Transcription/blob/master/Project_Images/Project_Images%20(4).png)
+![alt text](https://github.com/SahilSrivastava/Conversation_Transcription/blob/master/Project_Images/Project_Images%20(5).png)
