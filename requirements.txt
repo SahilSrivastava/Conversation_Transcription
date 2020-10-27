@@ -2,7 +2,7 @@ asn1crypto==0.24.0
 azure-cognitiveservices-speech==1.5.1
 cffi==1.12.3
 chardet==3.0.4
-cryptography==2.7
+cryptography==3.2
 idna==2.8
 numpy==1.16.4
 pycparser==2.19
